@@ -1,4 +1,4 @@
-header {
+/*header {
 background-color: rgb(96, 131, 111);  
 color:rgb(193, 248, 255);
 text-align: center;
@@ -12,5 +12,26 @@ main {
 body {
     background-image: url("record.png");
     background-repeat: space repeat;
+    margin: 0;
+}
+*/
+
+.headerdark {
+    background-color: rgb(96, 131, 111);  
+    color:rgb(193, 248, 255);
+    text-align: center;
+}
+
+.graybox {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+.image { 
+    background-image: url("record.png");
+    background-repeat: space repeat;
+}
+
+body {
     margin: 0;
 }
