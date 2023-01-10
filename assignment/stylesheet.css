@@ -1,4 +1,16 @@
 header {
-background-color: seagreen;  
-color:lightsteelblue;
+background-color: rgb(96, 131, 111);  
+color:rgb(193, 248, 255);
+text-align: center;
+}
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+body {
+    background-image: url("record.png");
+    background-repeat: space repeat;
+    margin: 0;
 }
